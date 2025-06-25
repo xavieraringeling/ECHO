@@ -16,7 +16,7 @@ This repo shares the **public side** of that system:
 
 ## Because prompts became infrastructure when nobody was looking
 
-You didn’t notice it at first. Then you realized your prompt logic was scattered, half-baked, undocumented and then it broke. That’s when structure isn’t optional anymore.
+Maybe you didn’t notice it at first. Then you realized your prompt logic was scattered, half-baked, undocumented and then it broke. That’s when structure isn’t optional anymore.
 
 ECHO doesn’t promise better AI. It promises prompts that *don’t crumble under pressure*.
 
