@@ -48,10 +48,10 @@ Share it (just give credit)
 
 ## What this *doesn’t* cover
 
-Internal scoring algorithms  
-Metadata blueprints  
-Prompt lifecycle automation  
-Hidden logic systems or proprietary recipes
+- Internal scoring algorithms  
+- Metadata blueprints  
+- Prompt lifecycle automation  
+- Hidden logic systems or proprietary recipes
 
 Those are still under wraps. Want in? Reach out.
 
@@ -59,7 +59,7 @@ Those are still under wraps. Want in? Reach out.
 
 ## Your Questions Drive the Quick Start
 
-We want ECHO to solve real problems—not imaginary ones.
+We want ECHO to solve real problems, not imaginary ones.
 
 **What’s your first question about using ECHO in your own work?**
 
@@ -73,14 +73,13 @@ We want ECHO to solve real problems—not imaginary ones.
 - Start a Discussion  
 - Or email [xa4a.net/contact-me](https://www.xa4a.net/contact-me)
 
-Your questions will shape our quick-start guide and FAQ.  
-We’ll answer, share, and build ECHO’s next steps together.
+Your questions will shape our quick-start guide and FAQ. We’ll answer, share, and build ECHO’s next steps together.
 
 ---
 
 ## License
 
-This spec is open‑use: simple, human, usable. See [LICENSE.md](LICENSE.md).
+This spec is open‑use: simple and usable. See [LICENSE.md](LICENSE.md).
 
 ---
 
