@@ -24,17 +24,12 @@ That’s what ECHO is for: not a layer of magic, but a structure that holds when
 
 ### What is ECHO?
 
-ECHO stands for Ecosystem for Controlled Human/AI Output. It’s not just a name. It’s a stance.
+ECHO stands for Ecosystem for Controlled Human/AI Output. It’s not just a name. It’s a stance.Ecosystem because prompts don’t exist in isolation. They interact across tools, teams, policies, and outputs.
 
-Ecosystem because prompts don’t exist in isolation. They interact across tools, teams, policies, and outputs.
-
-Controlled not in the sense of rigidity, but in the sense of visibility. You can see what’s happening, why, and where to intervene.
-
-Human/AI because even with AI in the loop, the responsibility, intent, and framing remain ours.
-
-Output because that’s what the world sees. The text, the tone, the impact.
-
-ECHO isn’t about controlling creativity, it’s about structuring intent so the output carries what matters, without distortion or drift.
+- Controlled not in the sense of rigidity, but in the sense of visibility. You can see what’s happening, why, and where to intervene.
+- Human/AI because even with AI in the loop, the responsibility, intent, and framing remain ours.
+- Output because that’s what the world sees. The text, the tone, the impact.
+- ECHO isn’t about controlling creativity, it’s about structuring intent so the output carries what matters, without distortion or drift.
 
 ### Built for stakes
 
