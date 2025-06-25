@@ -159,7 +159,7 @@ The rules, stated per line. These control tone, language level, accessibility, v
 
 ### Guardrails (required)
 
-The limits or what not to do. No guessing. No speculation. No sarcasm. These don’t guide style. They prevent risk. Required.
+The limits or what not to do. No guessing. No speculation. No sarcasm. These don’t guide style. They prevent risk. 
 
 ### Output Instructions (required)
 
@@ -171,7 +171,7 @@ The model for the model. A quick sample that shows what “good” looks like: e
 
 ### Self Check (optional)
 
-A loop. Lets the model critique its own output before returning it. Adds an extra layer of review. Especially useful when no human review is available—though human oversight remains essential for final outputs.
+A loop. Lets the model critique its own output before returning it. Adds an extra layer of review. Especially useful when no human review is availabl, though human oversight remains essential for final outputs.
 
 That’s the anatomy. Not every component is in every prompt. But every prompt respects the same order, and the same logic.
 
@@ -182,7 +182,9 @@ That’s what keeps them legible, reusable, and fixable. Not magic, just built t
 ### Why it matters: Structured vs. Unstructured
 
 Take a typical unstructured prompt:  
+
 “Rewrite this text in a friendly tone and make sure it’s accessible.”  
+
 It might work. Once. If the model guesses well. If the writer remembers the tone rules. If the task is simple.
 
 Now try it with components:
