@@ -1,4 +1,4 @@
-## Document Title (working): ECHO – A Modular Framework for Prompt Design in High-Stakes Contexts
+## ECHO – A Modular Framework for Prompt Design in High-Stakes Contexts
 
 ### Introduction
 
