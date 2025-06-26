@@ -249,17 +249,18 @@ Mix the levels, and everything breaks. You get prompts pretending to be template
 
 ## Component-by-Component Scope Table
 
-| Component           | Belongs in Recipe if...                              | Belongs in Prompt if...                                  |
-|||--|
-| **Context**         | You need a general framing (e.g. legal simplification) | You know the user, channel, or situation                 |
-| **Perspective**     | The task requires a lens (e.g. trauma-informed edits) | The topic demands a specific stance (e.g. disability lens) |
-| **Role**            | You always want a model with a certain posture (e.g. reviewer) | You need a role with domain expertise (e.g. benefits officer) |
-| **Instruction**     | The ask repeats across use cases                     | The ask needs precision for this instance                 |
-| **Guidelines**      | You can reuse rules like tone, clarity, accessibility | You have style constraints unique to this case            |
-| **Guardrails**      | The risk pattern applies across the domain           | You must block specific missteps in this prompt           |
-| **Output Instructions** | The output format is stable across uses              | The format must shift for the task at hand                |
-| **Output Example**  | The tone/format is always unclear and needs modeling | You want to model edge cases or tricky structures         |
-| **Self Check**      | You always want reflective checks in this task type  | The stakes in this instance call for extra scrutiny       |
+| **Component**         | **Belongs in Recipe if...**                                          | **Belongs in Prompt if...**                                       |
+|-----------------------|----------------------------------------------------------------------|-------------------------------------------------------------------|
+| **Context**           | You need a general framing (e.g. legal simplification)               | You know the user, channel, or situation                          |
+| **Perspective**       | The task requires a lens (e.g. trauma-informed edits)                | The topic demands a specific stance (e.g. disability lens)        |
+| **Role**              | You always want a model with a certain posture (e.g. reviewer)       | You need a role with domain expertise (e.g. benefits officer)     |
+| **Instruction**       | The ask repeats across use cases                                     | The ask needs precision for this instance                         |
+| **Guidelines**        | You can reuse rules like tone, clarity, accessibility                | You have style constraints unique to this case                    |
+| **Guardrails**        | The risk pattern applies across the domain                           | You must block specific missteps in this prompt                   |
+| **Output Instructions** | The output format is stable across uses                            | The format must shift for the task at hand                        |
+| **Output Example**    | The tone/format is always unclear and needs modeling                 | You want to model edge cases or tricky structures                 |
+| **Self Check**        | You always want reflective checks in this task type                  | The stakes in this instance call for extra scrutiny               |
+
 
 ## 5: Differentiators
 
