@@ -1,6 +1,6 @@
-# ECHO – Modular Prompt Framework for When Things Break
+# ECHO – Modular Prompt Framework 
 
-ECHO isn’t a tool. It’s an infrastructure born from a mess: the chaos that exploded when everyone with Slack started AI-prompting without any structure.
+ECHO isn’t a tool. It’s an infrastructure born from a mess: the chaos that exploded when everyone with Slack started AI-prompting without enough structure.
 
 This repo shares the **public side** of that system:
 
@@ -14,15 +14,15 @@ This repo shares the **public side** of that system:
 
 ---
 
-## Because prompts became infrastructure when nobody was looking
+## Because prompts became infrastructure
 
-Maybe you didn’t notice it at first. Then you realized your prompt logic was scattered, half-baked, undocumented and then it broke. That’s when structure isn’t optional anymore.
+Maybe you didn’t notice it at first (I sure didn't). Then you realized your prompt logic was scattered, half-baked, undocumented and then it broke. That’s when structure isn’t optional anymore.
 
 ECHO doesn’t promise better AI. It promises prompts that *don’t crumble under pressure*.
 
 ---
 
-## Who this actually helps
+## Who this helps
 
 - Prompt designers trapped in version chaos  
 - Dev teams building internal AI tooling fast and needing governance  
